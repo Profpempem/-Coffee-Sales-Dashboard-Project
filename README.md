@@ -22,4 +22,4 @@ This project analyzes 1,000 coffee product orders across multiple countries. Usi
 - Explore product expansion in light roast categories where there's emerging interest
 
 ## 📊 Dashboard Preview  
-![Coffee Sales Dashboard](i.......)
+![Coffee Sales Dashboard](COFFEE SALES DASHBOARD.png.PNG)
