@@ -1,7 +1,7 @@
 # ☕ Coffee Sales Dashboard Project
 
 ## 📝 Project Overview  
-This project analyzes 1,000 coffee product orders across multiple countries. Using Excel and an interactive dashboard, we uncover sales trends, customer behavior, and top product insights. The goal is to drive business decisions based on data-driven analysis.
+This project analyzes 1,000 coffee product orders across multiple countries. Using Excel and an interactive dashboard, I uncover sales trends, customer behavior, and top product insights. The goal is to drive business decisions based on data-driven analysis.
 
 ## 🎯 Key Objectives  
 - Analyze coffee sales by country, product, and roast type  
@@ -22,4 +22,4 @@ This project analyzes 1,000 coffee product orders across multiple countries. Usi
 - Explore product expansion in light roast categories where there's emerging interest
 
 ## 📊 Dashboard Preview  
-![Coffee Sales Dashboard](COFFEE SALES DASHBOARD.png.PNG)
+![Coffee Sales Dashboard]([COFFEE SALES DASHBOARD.png.PNG](https://github.com/Profpempem/-Coffee-Sales-Dashboard-Project/blob/main/COFFEE%20SALES%20DASHBOARD.png.PNG)
